@@ -1,6 +1,4 @@
-package com.pb.levchenko;
-
-import com.pb.levchenko.hw6.Animal;
+package com.pb.levchenko.hw6;
 
 import java.util.Objects;
 
